@@ -11,5 +11,5 @@
 # Resources
 * Explain what a command and options mean https://explainshell.com/
 * Man pages https://linux.die.net/man/
-Generating ssh key https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+* Generating ssh key https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 * Move cursor around command line https://stackoverflow.com/a/36098644
